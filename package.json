@@ -1,0 +1,13 @@
+{
+  "name": "my-publish-page",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "wrangler dev",
+    "build": "wrangler build",
+    "publish": "wrangler publish"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}

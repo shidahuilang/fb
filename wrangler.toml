@@ -1,0 +1,12 @@
+name = "my-publish-page"
+type = "javascript"
+
+[env.production]
+workers_dev = true
+account_id = "your_account_id"
+workers_dev = true
+compatibility_date = "2025-06-03"
+
+[[routes]]
+pattern = "example.com/*"
+zone_id = "your_zone_id"
