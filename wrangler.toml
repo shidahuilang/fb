@@ -1,6 +1,0 @@
-name = "my-worker"
-compatibility_date = "2025-06-03"
-
-[[build.uploads]]
-  asset_paths = ["./dist/**/*"]
-  public = true
